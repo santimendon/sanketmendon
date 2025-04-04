@@ -5,7 +5,7 @@ I am Sanket Mendon, a Senior Software Engineer with over 9 years of experience i
 ### 📫 How to reach me?
 
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/sanketmendon/) 👨🏻‍💻
- - Email at [Email](mailto:sanketmendon@gmail.com) 💌
+ - Email at [sanketmendon@gmail.com](mailto:sanketmendon@gmail.com) 💌
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=santimendon&count_private=true&show_icons=true&theme=dark" alt="Sanket's Github Stats" />
